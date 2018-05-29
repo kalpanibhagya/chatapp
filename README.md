@@ -1,0 +1,1 @@
+This is a simple realtime chat app using express & socket.io
